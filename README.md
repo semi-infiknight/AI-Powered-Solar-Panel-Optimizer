@@ -1,22 +1,15 @@
 # Solar Energy Ecosystem Solutions Application - Krypton Solar
 
-## Team Name
-
-- Team Neverstopdreaming
-
 ## Problem Statement
 
 Many individuals and businesses are interested in transitioning to solar energy but face challenges in determining the best solar panel installations, placements, and energy systems for their unique needs. Our application addresses this issue by leveraging data from solar APIs and employing machine learning to recommend optimal solar solutions.
 
-## Team Leader Email
-
-- Contact: mathurshubhang2002@gmail.com
-
 ## A Brief of the Prototype
 
-### UML Diagrams
+### UML Diagram
 
-![UML Diagram](https://i.ibb.co/jMjdBd2/Untitled-Diagram-drawio.png)
+![Untitled Diagram drawio](https://github.com/semi-infiknight/AI-Powered-Solar-Panel-Optimizer/assets/97100765/cb2ae9b1-a0cd-4f22-8cb8-7396e9213ebc)
+
 
 ### Prototype Frontend
 
@@ -91,3 +84,8 @@ Our application has significant future scalability and potential for expansion. 
 - Collaboration with energy providers to facilitate the seamless transition to solar energy for users.
 
 We aim to continually improve and scale our application to meet the evolving needs of users and the renewable energy industry.
+
+## Demo Video
+
+[Watch the demo](https://youtu.be/2RJ_xX6QSNI)
+
